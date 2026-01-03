@@ -16,6 +16,8 @@
 Map Link is a client mod that synchronizes player positions, marker positions and area overlays from Web-Maps like Bluemap, Dynmap, LiveAtlas, Pl3xMap or Squaremap with [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) and [Worldmap](https://modrinth.com/mod/xaeros-world-map).
 It can also show how long a player has been AFK based on movement data.
 
+**Latest Minecraft Version: 1.21.11**
+
 _Formerly known as "Remote Player Waypoints for Xaero's Map"_
 
 </div>
